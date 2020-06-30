@@ -1,0 +1,3 @@
+[submodule "Huawei-Firmware-DataBase"]
+	path = Huawei-Firmware-DataBase
+	url = https://github.com/GDStaff/Huawei-Firmware-DataBase
